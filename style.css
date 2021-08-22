@@ -1,0 +1,24 @@
+body{
+	text-align: center;
+	font: normal Arial;
+	background: #e57000;
+}
+h1{
+	color: #fff;
+}
+section{
+	background: #fff;
+	width: 500px;
+	margin: auto;
+	padding: 10px;
+	border-radius: 5%;
+	box-shadow: 5px 5px 8px rgba(0, 0, 0, .5);
+
+}
+#tempo{
+	margin-left: 56px;
+}
+footer{
+	font-style: italic;
+	color: #fff;
+}

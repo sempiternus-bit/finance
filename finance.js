@@ -13,7 +13,7 @@ function calc(){
 		alert('Tente novamente, preencha todos os campos corretamente')
 	}else{
 		if (parcelas > saldo * 0.30){
-			resultado.innerHTML = `Seu peddo foi negado`
+			resultado.innerHTML = `Seu pedido foi negado`
 			img.setAttribute('src', 'negado.png')
 		}else{
 			resultado.innerHTML = `Pedido aprovador valor das parcelas R$: ${parcelas.toFixed(2)}`

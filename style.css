@@ -20,6 +20,12 @@ section{
 	box-shadow: 5px 5px 8px rgba(0, 0, 0, .5);
 
 }
+#dados{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	max-width: 100%;
+}
 footer{
 	font-style: italic;
 	color: #fff;

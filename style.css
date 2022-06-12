@@ -26,3 +26,8 @@ footer{
 	font-style: italic;
 	color: #fff;
 }
+@media screen and (max-width: 700px){
+	section{
+		width: 80%;
+	}
+}

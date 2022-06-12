@@ -13,7 +13,6 @@ section{
 	flex-direction: column;
 	align-items: center;
 	background: #fff;
-	width: 500px;
 	min-width: 120px;
 	max-width: 800px;
 	padding: 10px;
